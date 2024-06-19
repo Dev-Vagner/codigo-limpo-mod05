@@ -1,0 +1,2 @@
+Eu conseguiria entender o código sem documentá-lo, pois a classe e os métodos são muitos simples e
+as nomenclaturas já são bem sugestivas sobre o que a classe Calculadora e os seus métodos fazem.
